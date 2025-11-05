@@ -1,0 +1,21 @@
+Q : Can we migrate existing Appium scripts to UiPath? 
+Ans : Currently we do not have any utility available to migrate them into UiPath. However, Appium scripts can be triggered from UiPath in terms of execution.
+ 
+
+Q: Can UiPath be integrated with Zephyr on Jira Cloud? 
+Ans : Currently, No. It is in the road map and is expected to be available by this year-end. At the moment, integrations are available for Jira (On-Premise or Cloud) and XRAY for Jira.
+ 
+
+Q: Can UiPath be integrated with Jira Cloud – User Stories? If so, please share the screen shots and demos. 
+Ans : Yes, it is possible.
+ 
+
+Please find here the documentation: https://docs.uipath.com/test-suite/automation-suite/2022.10/user-guide/connecting-a-jira-project
+ 
+
+Q: Share mobile testing video and slides.
+ 
+
+Ans: 
+Mobile testing demo: https://www.youtube.com/watch?v=5H_PVNwm1ls
+Documentation: https://docs.uipath.com/test-suite/automation-suite/2022.10/user-guide/creating-a-mobile-automation-workflow
